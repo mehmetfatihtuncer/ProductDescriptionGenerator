@@ -1,4 +1,4 @@
-package dev.fatih.productDescriptionGenerator.adapter.chatClient;
+package dev.fatih.productDescriptionGenerator.infastructure.chatClient;
 
 import dev.fatih.productDescriptionGenerator.application.port.ChatPort;
 import org.springframework.ai.chat.client.ChatClient;

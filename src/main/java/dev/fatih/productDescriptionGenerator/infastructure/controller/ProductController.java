@@ -1,8 +1,8 @@
-package dev.fatih.productDescriptionGenerator.adapter.controller;
+package dev.fatih.productDescriptionGenerator.infastructure.controller;
 
 import dev.fatih.productDescriptionGenerator.application.GenerateDescriptionUseCase;
 import dev.fatih.productDescriptionGenerator.domain.Product;
-import dev.fatih.productDescriptionGenerator.adapter.dto.ProductDTO;
+import dev.fatih.productDescriptionGenerator.infastructure.dto.ProductDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

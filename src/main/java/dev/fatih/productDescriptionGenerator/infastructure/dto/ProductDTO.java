@@ -1,4 +1,4 @@
-package dev.fatih.productDescriptionGenerator.adapter.dto;
+package dev.fatih.productDescriptionGenerator.infastructure.dto;
 
 import lombok.Data;
 
